@@ -1,1 +1,2 @@
-Delete the directory my_first_directory that is in the /tmp directory
+9. Bye bye My first directory
+mandatory
