@@ -1,2 +1,2 @@
-Copy HTML files
+Hidden files
 
